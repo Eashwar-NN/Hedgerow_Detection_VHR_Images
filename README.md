@@ -81,7 +81,6 @@ This research is currently being prepared for academic publication. The complete
 
 - [Complete Dissertation PDF](docs/dissertation.pdf) - Full research document with detailed methodology and results
 - [Research Summary](docs/research_summary.md) - Concise overview of findings and implications
-- [Model Performance Analysis](docs/model_comparison.md) - Detailed comparison of all 34 architectures tested
 - [Experiment Tracking](https://api.wandb.ai/links/eashwar408-university-of-stirling/amhlp70h) - Complete training logs and metrics
 
 ## 🤝 Acknowledgments
